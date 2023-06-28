@@ -47,3 +47,5 @@ override.tf.json
 
 # Игнорировать файлы конфигурации (CLI configuration files) в текущей директории с  расширением .terraformrc.rc
 terraform.rc
+
+new line
